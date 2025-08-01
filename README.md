@@ -1,4 +1,5 @@
-This project aims to predict employee burnout based on workplace-related factors using machine learning techniques. The goal is to identify high-risk employees and help organizations take preventive action to improve employee well-being and productivity.🧠 Problem Statement
+This project aims to predict employee burnout based on workplace-related factors using machine learning techniques. The goal is to identify high-risk employees and help organizations take preventive action to improve employee well-being and productivity.
+🧠 Problem Statement
 Burnout affects employee health and company performance. Early prediction enables proactive measures. This project uses historical data to classify employees at risk of burnout.
 
 🗃️ Dataset
