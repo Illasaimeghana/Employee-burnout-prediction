@@ -6,13 +6,9 @@ Burnout affects employee health and company performance. Early prediction enable
 Source: [Kaggle or internal HR dataset — mention source]
 
 Features include:
-
 Mental fatigue score
-
 Workload
-
 Daily working hours
-
 Resource availability
 
 Company type
